@@ -43,7 +43,7 @@ body {
 .box .cont {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  padding: 10px;
+  margin: 10px;
   border-radius: 10px;
   overflow: hidden;
 }
